@@ -1,1 +1,0 @@
-# fynd-ai-intern-assignment
