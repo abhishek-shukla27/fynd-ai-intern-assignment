@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 from llm import analyze_review
 
-st.set_page_config(page_title="Fynd AI Assignment", layout="wide")
+st.set_page_config(page_title="User Dashboard", layout="wide")
 
 DATA_FILE = "data.csv"
 
